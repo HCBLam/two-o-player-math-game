@@ -7,4 +7,3 @@ class Question
     @answer = @num1 + @num2
   end
 end
-
